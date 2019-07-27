@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://www.pattishortvoiceover.com
+url:                   https://domain.tld
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,25 +12,25 @@ url:                   https://www.pattishortvoiceover.com
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:       ''
+baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Patti Short Voice Over Artist
+title:                 Hydejack
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Finding me".
-  Discovering who I am and learning to love life again.
+  "Best Jekyll Theme by a Mile".
+  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Finding me".
-  Discovering who I am and learning to love life again.
+  "Best Jekyll Theme by a Mile".
+  Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,24 +42,21 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Patti Short
-  email:               hi@pattishort.com
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
-  twitter:             magenta3604
+  # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-#  - title:             Home
-#    url:               /
+  - title:             Hydejack
+    url:               /hydejack/
+  - title:             Hyde
+    url:               /hyde/
+  - title:             Documentation
+    url:               /docs/
   - title:             About
     url:               /about/
-  - title:             My Blog
-    url:               /blog/
-#  - title:             Documentation
-#    url:               /docs/
-
-#  - title:             Resume
-#    url:               /resume/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -70,7 +67,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2019. All rights reserved.
+copyright:             © 2018. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -85,12 +82,12 @@ paginate_path:         /blog/page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(47, 65, 79)
+accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(47, 65, 79)
+theme_color:           rgb(25,55,71)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -108,9 +105,9 @@ defaults:
   - scope:
       path:            hyde
     values:
-      accent_color:    rgb(47, 65, 79)
+      accent_color:    rgb(38,139,210)
       accent_image:
-        background:    rgb(47, 65, 79)
+        background:    rgb(32,32,32)
         overlay:       false
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
@@ -305,10 +302,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#  name:                Patti Short
-# links:
-#    - https://twitter.com/magenta3604
-#    - https://github.com/shortpatti
+#   name:                <firstname> <lastname>
+#   links:
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Other Plugins
