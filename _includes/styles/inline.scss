@@ -25,6 +25,9 @@ $font-family:         {{ site.font         | default:"Noto Sans, Helvetica, Aria
 @import "my-variables";
 @import "mixins";
 
+$theme-color: {{ site.theme_color | default:'#193747' }};
+@import "pro/dark-mode";
+
 @import "pooleparty/__inline__/base";
 @import "pooleparty/__inline__/type";
 @import "pooleparty/__inline__/table";

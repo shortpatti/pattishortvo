@@ -25,6 +25,9 @@ $font-family:         {{ site.font         | default:"Noto Sans, Helvetica, Aria
 @import "my-variables";
 @import "mixins";
 
+$theme-color: {{ site.theme_color | default:'#193747' }};
+@import "pro/dark-mode";
+
 @import "reboot-mod";
 
 {% unless site.hydejack.no_inline_css or jekyll.environment == 'development' %}
@@ -52,6 +55,11 @@ $font-family:         {{ site.font         | default:"Noto Sans, Helvetica, Aria
   @import "hydejack/__link__/katex";
   @import "hydejack/__link__/footer";
 
+  @import "pro/projects";
+  @import "pro/resume";
+  @import "pro/bootstrap-mod/bootstrap";
+  @import "pro/message-newsletter";
+
   {% unless site.hydejack.no_mark_external or site.no_mark_external %}
     @import "hydejack/__link__/mark-external";
   {% endunless %}
@@ -60,6 +68,7 @@ $font-family:         {{ site.font         | default:"Noto Sans, Helvetica, Aria
   {% endunless %}
 
   @import "syntax";
+  @import "pro/syntax-dark";
   @import "spinner";
 
   // @import "my-inline";
@@ -89,6 +98,11 @@ $font-family:         {{ site.font         | default:"Noto Sans, Helvetica, Aria
   @import "hydejack/_katex.pre.scss";
   @import "hydejack/_footer.pre.scss";
 
+  @import "pro/projects";
+  @import "pro/resume";
+  @import "pro/bootstrap-mod/bootstrap";
+  @import "pro/message-newsletter";
+
   {% unless site.hydejack.no_mark_external or site.no_mark_external %}
     @import "hydejack/_mark-external.pre.scss";
   {% endunless %}
@@ -97,6 +111,7 @@ $font-family:         {{ site.font         | default:"Noto Sans, Helvetica, Aria
   {% endunless %}
 
   @import "syntax";
+  @import "pro/syntax-dark";
   @import "spinner";
 
   @import "my-inline";

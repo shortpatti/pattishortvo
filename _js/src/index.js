@@ -28,6 +28,8 @@ import "./images";
 import "./drawer";
 import "./push-state";
 import "./katex";
+import "./pro/dark-mode";
+import "./pro/cookies-banner";
 
 window.ResizeObserver = window.ResizeObserver || ResizeObserver;
 smoothscroll.polyfill();

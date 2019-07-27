@@ -33,6 +33,6 @@ layout: compress
   {% include head/index.html %}
 </head>
 
-<body>
+<body class="no-color-transition{% if site.hydejack.dark_mode.always %} dark-mode{% endif %}">
   {% include body/index.html %}
 </body>

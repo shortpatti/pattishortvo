@@ -175,23 +175,6 @@ Apr 2 2018
 * Updated JS dependencies
 * Updated hy-push-state and hy-drawer to latest versions
 
-## v7.5.2
-Jul 10 2018
-{:.heading.post-date}
-
-* Fixed an issue that caused the `list` layout to be empty after upgrading Jekyll
-* Updated dependencies
-
-## v7.5.1
-Apr 2 2018
-{:.heading.post-date}
-
-### Changed
-* Moved from browserify to webpack
-* Updated ruby dependencies
-* Updated JS dependencies
-* Updated hy-push-state and hy-drawer to latest versions
-
 ## v7.5.0
 Dec 18 2017
 {:.heading.post-date}

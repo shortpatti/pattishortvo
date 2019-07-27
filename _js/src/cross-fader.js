@@ -114,6 +114,7 @@ export class CrossFader {
     if (this.rules) {
       try {
         const c = Color(color);
+        const tc = Color(themeColor);
         const active = c.darken(0.1);
 
         // .content a
@@ -144,6 +145,10 @@ export class CrossFader {
         // .btn-primary:active
         this.rules[7].style.backgroundColor = active;
         this.rules[7].style.borderColor = active;
+
+        // body.dark-mode
+        this.rules[8].style.setProperty("--body-bg", Color.hsl(tc.hue(), 12.5, 20));
+        this.rules[8].style.setProperty("--border-color", Color.hsl(tc.hue(), 12.5, 25));
 
         // ::selection or ::-moz-selection (assuming it is last in the list)
         this.rules[this.rules.length - 1].style.backgroundColor = color;
