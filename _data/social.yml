@@ -19,7 +19,7 @@ google-drive:
 facebook:
   name: Facebook
   icon: icon-facebook
-  prepend: 'https://facebook.com/'
+  prepend: 'https://facebook.com/bellasatori'
 instagram:
   name: Instagram
   icon: icon-instagram
