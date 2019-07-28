@@ -208,7 +208,7 @@ Dec 18 2017
     - volunteer
     - education
     - awards
-    - publications
+    - demos
     - references
   right_column:
     - languages

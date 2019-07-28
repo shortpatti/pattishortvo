@@ -8,15 +8,11 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
+    Patti’s 20+ year background in computer technology (computer networking, telecommunications, cloud storage, and software) has her uniquely poised to understand your company’s needs to deliver a project that is both on time and within budget. 
 
   # This photo will be used in the about section
   picture:
-    path:            https://placehold.it/128x128
+    path:            https://en.gravatar.com/userimage/104786374/f7583c9b99b403aa68ff664063d1a71b.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
@@ -26,9 +22,13 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         magenta3604
-    # github:          <username>
      email:           hello@pattishortvoiceover.com
+     twitter:         magenta3604
+     linkedin:        pattishort
+     instagram:       bellasatori
+
+    # github:          shortpatti
+    # trello:          pattishort
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -39,7 +39,7 @@ author1:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -56,8 +56,8 @@ author1:
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
-    # trello:          <firstnamelastname>
-    # linkedin:        pattishort
+    
+
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

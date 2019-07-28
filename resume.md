@@ -2,8 +2,7 @@
 layout: resume
 title: Résumé*
 description: >
-  This is the `description` of your resume page, as it will be seen by search engines.
-  Open `resume.md` to edit this text.
+  Patti satisfies the market needs by bringing a professional, educated, and trustworthy, yet warm and friendly voice to all voice over recordings. When a client is facing tight budgets and looming deadlines, she provides a simple solution to getting work done on time and within budget. 
 hide_description: false
 menu: true
 order: 3

@@ -11,7 +11,7 @@ left_column:
  - volunteer
  - education
  - awards
- - publications
+ - demos
  - references
 right_column:
  - languages

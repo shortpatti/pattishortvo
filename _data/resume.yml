@@ -2,40 +2,32 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Patti Short"
+  label: "Voiceover Artist"
   picture: "/assets/icons/icon.png"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  email: "hello@pattishortvoiceover.com"
+  phone: "(970) 315-2953"
+  website: "https://www.pattishortvoiceover.com"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    Patti has used her way with "words" throughout her 23-year technical writing career to inform, teach, and help her audience with computer technology.  Her background in computer technology (computer networking, telecommunications, cloud storage, and software) has her uniquely poised to understand your company’s products and services. She looks forward to using her “voice” to help inform and educate your audience about your products and services. 
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+    #address: "2712 Broadway St"
+    #postalCode: "CA 94115"
+    city: "Redmond"
+    countryCode: ""
+    region: "Washington (until May 2020)"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+      username: "magenta3604"
+      url: "https://twitter.com/magenta3604"
     - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "Patti Short"
+      url: "https://www.linkedin.com/in/pattishort/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "PSCM Designs and Voiceover"
+    position: "Owner/Operator"
+    website: "https://pscmdesigns.com"
+    startDate: "2019-07-01"
     endDate: ""
     summary: >
       Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
@@ -89,13 +81,23 @@ skills:
       - "MP4"
       - "GIF"
 languages:
-  - language: "English"
+  - language: "English (Mid-west accent)"
     fluency: "Native speaker"
+
 interests:
-  - name: "Wildlife"
+  - name: "Technology"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "Networking"
+      - "Blockchain"
+      - "Databases"
+  - name: "Herbs and wild flowers"
+    keywords:
+      - ""
+  - name: "Osteoarthritis"
+    keywords:
+      - "CMC Arthritis"
+      - "Thumb Arthritis"
+      - "Basal Arthritis"
 references:
   - name: "Erlich Bachman"
     reference: >
