@@ -12,20 +12,21 @@ basics:
     Patti has used her way with "words" throughout her 23-year technical writing career to inform, teach, and help her audience with computer technology.  Her degree and background in computer networking, telecommunications, cloud storage, and software has her uniquely poised to understand your company’s products and services. Let Patti’s lengthy career in the computer industry help “voice” your company’s products and services to help inform and educate your customers.   
   location:
     #address: "2712 Broadway St"
-    postalCode: "WA 98052"
     city: "Redmond"
+    #postalCode: "WA 98052"
     countryCode: "US"
     region: "Washington"
   profiles:
-    - network: "Twitter"
-      username: "magenta3604"
-      url: "https://twitter.com/magenta3604"
     - network: "LinkedIn"
       username: "pattishort"
       url: "https://www.linkedin.com/in/pattishort/"
     - network: "Behance"
       username: "shortpatti"
       url: "https://www.behance.net/shortpatti/"
+    - network: "Twitter"
+      username: "magenta3604"
+      url: "https://twitter.com/magenta3604"
+
 work:
   - company: "PSCM Designs and Voiceover"
     position: "Owner and Operator"
