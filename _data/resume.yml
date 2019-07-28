@@ -12,17 +12,20 @@ basics:
     Patti has used her way with "words" throughout her 23-year technical writing career to inform, teach, and help her audience with computer technology.  Her degree and background in computer networking, telecommunications, cloud storage, and software has her uniquely poised to understand your company’s products and services. Let Patti’s lengthy career in the computer industry help “voice” your company’s products and services to help inform and educate your customers.   
   location:
     #address: "2712 Broadway St"
-    #postalCode: "CA 94115"
+    postalCode: "WA 98052"
     city: "Redmond"
-    countryCode: ""
-    region: "Washington (until May 2020)"
+    countryCode: "US"
+    region: "Washington"
   profiles:
     - network: "Twitter"
       username: "magenta3604"
       url: "https://twitter.com/magenta3604"
     - network: "LinkedIn"
-      username: "Patti Short"
+      username: "pattishort"
       url: "https://www.linkedin.com/in/pattishort/"
+    - network: "Behance"
+      username: "shortpatti"
+      url: "https://www.behance.net/shortpatti/"
 work:
   - company: "PSCM Designs and Voiceover"
     position: "Owner and Operator"
@@ -31,10 +34,10 @@ work:
     endDate: ""
     summary: >
       PSCM Designs and Voiceover is owned and operated by Patti Short, and this is her writing and design side of her. She provides technical writing, UX/UI writing, desktop publishing, and MadCap Flare conversion services.  Currently, Patti works for WAX writing technical articles about their blockchain and trading services.  She also provides voice over to complement her other services. 
-    highlights:
-      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+#    highlights:
+#      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
+#      - "Successfully won Techcrunch Disrupt"
+#      - "Optimized an algorithm that holds the current world record for Weisman Scores"
 volunteer:
   - organization: "Learning Ally"
     position: "Voice Over Quality Assurance"
@@ -42,8 +45,8 @@ volunteer:
     startDate: "2019-04-01"
     endDate: ""
     summary: "Learning Ally transforms the lives of children with learning disabilities by providing reading interventions to help them succeed academically, build self-confidence, and thrive in school and beyond."
-    highlights:
-      - ""
+#    highlights:
+#      - ""
 education:
   - institution: "Such A Voice"
     area: "Voice Over Technique"
