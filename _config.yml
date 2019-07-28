@@ -19,13 +19,13 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Patti Short 
+title:                
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+#  "Best Jekyll Theme by a Mile".
+#  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-#  - title:             Résumé*
-#    url:               /resume/
+  - title:             Résumé
+    url:               /resume/
 
-  - title:             Publications
+  - title:             Projects
     url:               /projects/
 
 #  - title:             Blog
