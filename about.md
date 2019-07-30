@@ -1,5 +1,5 @@
 ---
-image: /assets/img/blog/hydejack-8.png
+image: /assets/img/blog/pscmdesigns-logo-blk@0.5x.png
 ---
 
 # About

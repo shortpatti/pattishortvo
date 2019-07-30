@@ -50,8 +50,8 @@ volunteer:
 #      - ""
 education:
   - institution: "Such A Voice"
-    area: "Voice Over Technique"
-#    studyType: "Bachelor"
+    area: "Intensive Voice Over Technique"
+    coach: "Jan Haley-Soule"
     startDate: "2019-01-25"
     endDate: ""
 #    gpa: "4.0"
@@ -70,20 +70,22 @@ publications:
     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
     summary: "Innovative middle-out compression algorithm that changes the way we store data."
 skills:
-  - name: "Web Development"
-    level: "Master"
+  - name: "Files"
+    level: ""
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
+      - "MP3"
+      - "WAV"
+  - name: "Equipment"
+    level: ""
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+      - "Focusrite Scarlett Solo 2nd Gen"
+      - "Scarlett Studio condenser mic"
+      - "Audacity"
+      - "Adobe Audition"
+      - "ProTools"
+
 languages:
-  - language: "English (Mid-west accent)"
+  - language: "English / Mid-west accent "
     fluency: "Native speaker"
 
 interests:
@@ -92,13 +94,19 @@ interests:
       - "Networking"
       - "Blockchain"
       - "Databases"
+  - name: "Hobbies"
+    keywords:
+      - "Knitting"
+      - "Making soaps and lotions"
   - name: "Misc."
     keywords:
       - "Herbs and wild flowers"
       - "Osteoarthritis"
 
-#references:
-#  - name: "Erlich Bachman"
-#    reference: >
-#      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-#      Company proved that he will be a valuable addition to any company.
+references:
+  - name: "Jeff B."
+    reference: >
+      Sounds professional and like you know how to do what you’re explaining.  Your voice sounds pleasing to the ear.  I imagine that you are going to be very successful. Good luck!
+  - name: "Rick H. (fellow vo professional)"
+    reference: >
+      You sound awesome!

@@ -17,5 +17,5 @@ right_column:
  - interests
 # - awards
 # - publications
-# - references
+ - references
 ---
