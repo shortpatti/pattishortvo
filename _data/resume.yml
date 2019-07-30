@@ -26,7 +26,12 @@ basics:
     - network: "Twitter"
       username: "magenta3604"
       url: "https://twitter.com/magenta3604"
-
+publications:
+  - name: "Video compression for 3d media"
+    publisher: "Hooli"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Innovative middle-out compression algorithm that changes the way we store data."
 work:
   - company: "PSCM Designs and Voiceover"
     position: "Owner and Operator"
@@ -54,21 +59,13 @@ education:
     coach: "Jan Haley-Soule"
     startDate: "2019-01-25"
     endDate: ""
-#    gpa: "4.0"
-#    courses:
-#      - "DB1101 - Basic SQL"
-#      - "CS2011 - Java Introduction"
+
 #awards:
 #  - title: "Digital Compression Pioneer Award"
 #    date: "2014-11-01"
 #    awarder: "Techcrunch"
 #    summary: "There is no spoon."
-publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+
 skills:
   - name: "Files"
     level: ""
