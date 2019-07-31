@@ -2,13 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-<<<<<<< HEAD
   name:              Patti Short
   email:             hello@pattishortvoiceover.com
-=======
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
->>>>>>> 2ef887afe47ea4609a1e0b552f6e7e87dfd8493c
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -27,7 +22,6 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-<<<<<<< HEAD
      email:           hello@pattishortvoiceover.com
      skype:           patti.short
      twitter:         magenta3604
@@ -38,11 +32,6 @@ author1:
 
     # github:          shortpatti
     # trello:          pattishort
-=======
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
->>>>>>> 2ef887afe47ea4609a1e0b552f6e7e87dfd8493c
     # rss:             https://<url>/feed.xml
     # google:          <number>
     # vk:              <username>
@@ -69,13 +58,8 @@ author1:
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
-<<<<<<< HEAD
     
 
-=======
-    # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
->>>>>>> 2ef887afe47ea4609a1e0b552f6e7e87dfd8493c
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
