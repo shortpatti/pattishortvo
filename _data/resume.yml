@@ -32,6 +32,14 @@ publications:
     releaseDate: "2014-10-01"
     website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
     summary: "Innovative middle-out compression algorithm that changes the way we store data."
+
+education:
+  - institution: "Such A Voice"
+    area: "Intensive Voice Over Technique"
+    coach: "Jan Haley-Soule"
+    startDate: "2019-01-25"
+    endDate: ""
+
 work:
   - company: "PSCM Designs and Voiceover"
     position: "Owner and Operator"
@@ -40,10 +48,11 @@ work:
     endDate: ""
     summary: >
       PSCM Designs and Voiceover is owned and operated by Patti Short, and this is her writing and design side of her. She provides technical writing, UX/UI writing, desktop publishing, and MadCap Flare conversion services.  Currently, Patti works for Worldwide Asset eXchange (WAX) writing technical articles about their blockchain and trading services.  She also provides voice over to complement her other services, such as eLearning modules, presentations, or explainer videos. 
-#    highlights:
-#      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
+    highlights:
+       -  "What is NET, CPU and RAM on the WAX Blockchain?"
 #      - "Successfully won Techcrunch Disrupt"
 #      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+
 volunteer:
   - organization: "Learning Ally"
     position: "Voice Over Quality Assurance"
@@ -53,12 +62,7 @@ volunteer:
     summary: "Learning Ally transforms the lives of children with learning disabilities by providing reading interventions to help them succeed academically, build self-confidence, and thrive in school and beyond."
 #    highlights:
 #      - ""
-education:
-  - institution: "Such A Voice"
-    area: "Intensive Voice Over Technique"
-    coach: "Jan Haley-Soule"
-    startDate: "2019-01-25"
-    endDate: ""
+
 
 #awards:
 #  - title: "Digital Compression Pioneer Award"
