@@ -6,7 +6,7 @@
 
 // Headers
 // you can add more than one email address
-$to_email_addresses       = array( 'mail@example.com' => 'Example' );
+$to_email_addresses       = array( 'hello@pattishortvoiceover.com' => 'Example' );
 $cc_email_addresses       = array( 'mail@example.com' => 'Example' );
 $bcc_email_addresses      = array( 'mail@example.com' => 'Example' );
 $reply_to_email_addresses = array( 'mail@example.com' => 'Example' );
