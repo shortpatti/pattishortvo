@@ -16,14 +16,14 @@ $subject_prefix = '';
 
 // SMTP
 // comment these lines if you want to use native PHP mail function instead of SMTP
-// $is_smtp = true;
-// $smtp_host = '';
-// $smtp_host = 'smtp1.example.com;smtp2.example.com';  // Specify main and backup SMTP servers
-// $smtp_auth = true;                                   // Enable SMTP authentication
-// $smtp_username = 'user@example.com';                 // SMTP username
-// $smtp_password = 'secret';                           // SMTP password
-// $smtp_Secure = 'tls';                                // Enable TLS encryption, `ssl` also accepted
-// $smtp_port = 587;
+ $is_smtp = true;
+ $smtp_host = '';
+ $smtp_host = 'smtp.dreamhost.com';  					// Specify main and backup SMTP servers
+ $smtp_auth = true;                                  	// Enable SMTP authentication
+ $smtp_username = 'hello@pattishortvo';                 // SMTP username
+ $smtp_password = 'tqTP5zbh/!';                         // SMTP password
+ $smtp_Secure = 'ssl';                                  // Enable TLS encryption, `ssl` also accepted
+ $smtp_port = 465;
 
 // Validation messages
 $error_messages  = array(
