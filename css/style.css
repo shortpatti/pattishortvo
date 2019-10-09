@@ -653,6 +653,10 @@ iframe {
  * HEADER
  * ========================================
  */
+
+ .header-navbar {
+	background-image: url("images/backgrounds/hero-bg-fullscreen-cta.jpg"); 
+ }
 .header-section {
 	position: fixed;
 	z-index: 100;
