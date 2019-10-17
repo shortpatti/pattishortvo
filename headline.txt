@@ -61,3 +61,28 @@
 					</div>
 	
 				</section>
+
+
+
+
+
+
+<li>
+									<span class="icon-list-icon fa fa-bell" data-animation="bounceIn"></span>
+									<h4 class="icon-list-title">Training</h4>
+									<ul class="icon-list" style="margin-left: -80px;"><li style="padding-top: 2pt; padding-bottom: 2pt;"><b>Intensive Voiceover Technique</b> from <a href="https://www.suchavoice.com/" target="_blank"><b>Such A Voice</b></a></li><li style="padding-top: 2pt; padding-bottom: 2pt;"><b>Private Coaching</b> with <a href="http://janhaleysoule.net/jan-s-voice-over-page-2/" target="_blank"><b>Jan Haley-Soule</b></a> (Such A Voice)</li><li style="padding-top: 2pt; padding-bottom: 2pt;"><b>Audition Mastery</b> with <a href="http://www.nancywilsonvo.com/" target="_blank"><b>Nancy Wilson</b></a> (Such A Voice)</li></ul>
+								</li>
+
+
+<ul class="nice-list">
+									<li><b>Commercial</b><br><i>(Professionally produced) Coming mid October 2019</i>
+									  </audio></li>
+									<li><b>Narration </b><br><i>(Professionally produced) Coming mid October 2019</i></li>
+									<li><b>Technical Narration</b><p style="margin: 2px;"><i>What is a Stackable Switch?</i></p><p style="margin-top: 6pt;margin-bottom: 2px;"><audio controls>
+										<source src="audio/what-is-a-stablable-switch.mp3" type="audio/mpeg">
+									  Your browser does not support the audio element.</p></li>
+									   
+								</ul>
+
+
+<ul class="icon-list" style="margin-left: -80px;"><li style="padding-top: 2pt; padding-bottom: 2pt;"><b>Intensive Voiceover Technique</b> from <a href="https://www.suchavoice.com/" target="_blank"><b>Such A Voice</b></a></li><li style="padding-top: 2pt; padding-bottom: 2pt;"><b>Private Coaching</b> with <a href="http://janhaleysoule.net/jan-s-voice-over-page-2/" target="_blank"><b>Jan Haley-Soule</b></a> (Such A Voice)</li><li style="padding-top: 2pt; padding-bottom: 2pt;"><b>Audition Mastery</b> with <a href="http://www.nancywilsonvo.com/" target="_blank"><b>Nancy Wilson</b></a> (Such A Voice)</li></ul>
